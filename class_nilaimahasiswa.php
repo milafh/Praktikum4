@@ -1,5 +1,4 @@
 <?php
-require_once 'form_nilai.php';
 class NilaiMahasiswa{
     public $nama_mahasiswa;
     public $matkul;
